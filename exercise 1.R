@@ -31,6 +31,8 @@ hist(out, las=1, main="")
 sd(out)
 se_x
 
+#my
+
 
 #95% confidence interval:
 quantile(out, c(0.025, 0.975))
