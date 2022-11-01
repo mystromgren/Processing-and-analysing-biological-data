@@ -31,7 +31,7 @@ hist(out, las=1, main="")
 sd(out)
 se_x
 
-#my
+#my my
 
 
 #95% confidence interval:
